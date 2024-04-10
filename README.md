@@ -15,6 +15,13 @@ Manual preparation is available via
 ### Training 
 The "Train" section of notebook includes train process of model.
 
+### Pre-trained model
+
+We provide pre-trained ResCapsGuard.
+
+To evaluate, use model weights `new_capsules_changed_sinc_layer.pth`
+
+Due to the fact that a random part is cut out of the audio, the result may vary. The best result obtained: `EER = 2.27` and `t-DCF=0.0759`
 
 
 
