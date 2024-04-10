@@ -21,7 +21,7 @@ We provide pre-trained ResCapsGuard.
 
 To evaluate, use model weights `new_capsules_changed_sinc_layer.pth`
 
-Due to the fact that a random part is cut out of the audio, the result may vary. The best result obtained: `EER = 2.27` and `t-DCF=0.0759`
+Due to the fact that a random part is cut out of the audio, the result may vary. The best result obtained: `EER = 2.25` and `t-DCF=0.0744`
 
 
 
